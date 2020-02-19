@@ -1,4 +1,5 @@
 2. Checkout b2 from b1. Edit f1.txt and add it to commit c2.
+4. Merge master into b1. Edit file in b2 and push to b2.
 1. Checkout b1 from master. Create file f1.txt and add to it commit c1.
 
 4. Merge master into b1. Edit file in b2 and push to b2. 4. Merge master into b1. Edit file in b2 and push to b2.
