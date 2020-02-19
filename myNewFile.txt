@@ -1,0 +1,1 @@
+1. Checkout b1 from master. Create file f1.txt and add to it commit c1.
